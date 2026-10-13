@@ -121,6 +121,7 @@
 - [openai/codex-action](https://github.com/openai/codex-action) — 使用明确的 API 凭据和权限 profile，在 GitHub Actions 中运行 `codex exec`。 `(Official)`
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) — 一条命令同步多机之间的 Skills、MCP 与配置。
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) — 沙箱化工具输出以压缩上下文占用，支持 Codex。
+- [codex-plan-ledger](https://github.com/miniLV/codex-plan-ledger) — Codex hooks：把 Plan 模式决策写成仓库里可 review 的 `decisions.json`，写完代码后再检查哪些改动文件不在计划范围内。
 
 ## Codex SDK 与无头模式
 
