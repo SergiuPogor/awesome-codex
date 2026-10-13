@@ -121,6 +121,7 @@
 - [openai/codex-action](https://github.com/openai/codex-action) — Run `codex exec` in GitHub Actions with explicit API credentials and permission profiles. `(Official)`
 - [caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup) — Syncs agent skills, MCP servers, and config across machines with one command.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) — Sandboxes tool output to cut context usage; supports Codex.
+- [codex-plan-ledger](https://github.com/miniLV/codex-plan-ledger) — Codex hooks that write Plan-mode decisions to a reviewable `decisions.json` in the repo, then check which changed files fell outside the plan.
 
 ## Codex SDK & Headless
 
