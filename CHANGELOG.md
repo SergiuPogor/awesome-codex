@@ -6,6 +6,20 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W42 (2026-10-15)
+
+### Added
+
+- **Hooks & Automation** — codex-plan-ledger, a Stop hook that records Plan-mode decisions in `decisions.json` and flags changed files outside the plan (PR #28).
+- **MCP Servers** — REA for reverse engineering app behavior and native binaries.
+
+### Notes
+
+- codex-plan-ledger is an early v0.1 prototype with submitter-reported use; it was not run by the maintainer before merging, and its check compares file lists rather than code.
+- REA was added on maintainer-reported use; the specific task was not recorded.
+- Declined Tabgent (PR #27): verification was assistant-run rather than human use, and the description was AI-assisted.
+- Declined DC Hub (PR #29): data-center site selection is outside this coding list's scope.
+
 ## 2026-W41 (2026-10-09)
 
 ### Added
