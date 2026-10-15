@@ -112,6 +112,7 @@
 - [Sentry MCP](https://mcp.sentry.dev/) — Connects Codex to Sentry over OAuth to search production errors, inspect events, and analyze performance. `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — Read and write Figma from Codex.
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
+- [morluto/rea](https://github.com/morluto/rea) — MCP server that lets Codex reverse engineer app behavior and native binaries, and installs matching workflow instructions during setup.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
 

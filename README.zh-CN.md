@@ -112,6 +112,7 @@
 - [Sentry MCP](https://mcp.sentry.dev/) — 通过 OAuth 将 Codex 接入 Sentry，用于搜索线上错误、查看事件和分析性能。 `(Paid)`
 - [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) — 让 Codex 读写 Figma。
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust 写的代码情报 CLI，为 agent 构建调用图和语义检索。
+- [morluto/rea](https://github.com/morluto/rea) — 让 Codex 逆向分析应用行为和原生二进制的 MCP 服务，安装时会一并写入配套的工作流说明。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
 
