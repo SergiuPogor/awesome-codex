@@ -6,6 +6,18 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W43 (2026-10-23)
+
+### Added
+
+- **Skills** — BaoCut's Chinese-language design and design-system workflows for editable UI prototypes, canvases, and brand tokens with Codex.
+
+### Notes
+
+- The inbox excerpt reports improved design results with GPT-6.1 Sol using skills adapted from Claude Design in Artifacts; this is a usage report, not an independently reproduced comparison or a guarantee of model performance.
+- Verified BaoCut's Codex integration and built-in `design` / `design-system` skill documentation. These workflows depend on BaoCut's runtime and editor tools; they are not presented as standalone skills or an official Anthropic release. Equivalence to the latest Claude Artifacts version was not verified.
+- BaoCut is source-available under its Community License; commercial software redistribution, hosting, and embedding require separate licensing.
+
 ## 2026-W42 (2026-10-15)
 
 ### Added

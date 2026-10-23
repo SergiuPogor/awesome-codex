@@ -82,6 +82,7 @@
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — Curated practical skills for the Codex CLI and API.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Large cross-harness skill collection; Codex-compatible subset is substantial.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill that pushes generated UI away from generic AI-template output. Works with Codex.
+- [BaoCut Design Skills](https://github.com/JimLiu/baocut) — Chinese-language design and design-system workflows for Codex through BaoCut, covering editable UI prototypes, canvases, and reusable brand tokens. `(Chinese)`
 - [microsoft/skills](https://github.com/microsoft/skills) — Skills, MCP servers, and AGENTS.md files for grounding coding agents in Microsoft SDKs.
 - [Browser Extension Launch](https://github.com/xiehuan123/browser-extension-launch) — Guides Codex through Chrome extension development, controlled-browser acceptance, release packaging, and store-submission preparation. `(Chinese)`
 
