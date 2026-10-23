@@ -82,6 +82,7 @@
 - [composio-community/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) — 面向 Codex CLI 和 API 的实用 Skill 精选。
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 跨 harness 的大型 Skill 合集，其中兼容 Codex 的部分相当可观。
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 让生成的 UI 摆脱"AI 模板味"的设计 Skill，支持 Codex。
+- [BaoCut Design Skills](https://github.com/JimLiu/baocut) — 通过 BaoCut 为 Codex 提供中文设计与设计系统工作流，用于可编辑的界面原型、画板和可复用的品牌 tokens。 `(Chinese)`
 - [microsoft/skills](https://github.com/microsoft/skills) — 微软给自家 SDK 提供的 Skills、MCP 服务器与 AGENTS.md。
 - [浏览器插件一站式上线](https://github.com/xiehuan123/browser-extension-launch) — 指导 Codex 完成 Chrome 插件开发、受控浏览器验收、发布打包与商店提交材料准备。 `(Chinese)`
 
